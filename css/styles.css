@@ -57,14 +57,17 @@ main {
 	position: relative;
 }
 
-
 .post time {
 	position: absolute;
 	right: 10px;
 	top: 10px;
 }
 
-
+.tip img {
+	position: absolute;
+	left: 0;
+	top: 100%;
+}
 
 
 
