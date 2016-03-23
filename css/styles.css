@@ -69,5 +69,26 @@ main {
 	top: 100%;
 }
 
+.popup:hover span{
+	display: inline-block;
+	background-color: #333333;
+	color: white;
+	padding: 5px;
+	position: absolute;
+	bottom: 100%;
+	left: 0;
+}
+
+.popup span {
+	display: none;
+}
+
+.popup {
+	position: relative;
+
+}
+
+
+
 
 
