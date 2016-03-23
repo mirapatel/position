@@ -31,3 +31,24 @@ main {
 .warning i {
 	left: 17px;
 }
+
+.feature {
+	background-color: white;
+	width: 300px;
+	padding: 10px;
+	position: relative;
+	padding-top: 30px;
+	margin-top: 80px;
+}
+
+.feature img {
+	position: absolute;
+	top: -60px;
+	left: calc(50% - 50px);
+	border-radius: 50%; /* every element can be turned into a circle */
+	box-shadow: 0 5px 10px 0 rgba(0, 0, 0,.2);
+}
+
+
+
+
